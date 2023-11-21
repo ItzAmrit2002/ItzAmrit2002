@@ -1,6 +1,6 @@
-[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://itzamrit2002.github.io/portfolio/)
+[![MasterHead](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)](https://itzamrit2002.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm Amritendu</h1>
-<h3 align="center">A passionate Full Stack developer and a Blockchain Enthusiast from India.</h3>
+<h3 align="center">A passionate Full Stack developer from India.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzamrit2002&label=Profile%20views&color=0e75b6&style=flat" alt="itzamrit2002" /> </p>
