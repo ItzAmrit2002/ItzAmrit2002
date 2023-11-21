@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)](https://itzamrit2002.github.io/portfolio/)
+[![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)](https://itzamrit2002.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm Amritendu</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 
