@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzamrit2002&label=Profile%20views&color=0e75b6&style=flat" alt="itzamrit2002" /> </p>
 
-- 🌱 I’m currently learning **Backend Development and the Ethereum Blockchain**
+- 🌱 I’m currently learning **Full Stack Development and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://itzamrit2002.github.io/portfolio/](https://itzamrit2002.github.io/portfolio/)
 
-- 💬 Ask me about **React, NodeJs**
+- 💬 Ask me about **MERN Stack and DSA**
 
-- 📫 How to reach me **amritgg2002@gmail.com**
+- 📫 How to reach me **amritenduroy70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
